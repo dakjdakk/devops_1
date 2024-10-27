@@ -1,1 +1,1 @@
-echo "how are you" >> file1.txt
+echo "how are you" >> file2.txt
