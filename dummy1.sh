@@ -1,1 +1,1 @@
-echo "how are yu" >> file2.txt
+echo "how are yu >> file2.txt
