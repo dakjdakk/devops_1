@@ -1,1 +1,1 @@
-echo "how are yu >> file2.txt
+eco "how are yu >> file2.txt"
