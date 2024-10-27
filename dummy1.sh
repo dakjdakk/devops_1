@@ -1,1 +1,1 @@
-eco "how are yu >> file2.txt"
+eco "how are you" >> file2.txt
